@@ -1,4 +1,4 @@
-FROM sebasguts/normalizbinder:20171024
+FROM sebasguts/normalizbinder:20171025
 
 MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
 
